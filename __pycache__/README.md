@@ -45,7 +45,7 @@ You can simulate disk access scheduling via different algorithms:
 2. Run the `gui.py` script (you may need to recompile or restore it from source).
 3. Use the interface to manage files and observe block usage.
 
-> Note: Only `.pyc` (compiled) files for the GUI and backend are included. If you're contributing, please include the source `.py` files.
+
 
 
 ## 📜 License
